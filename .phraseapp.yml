@@ -11,15 +11,15 @@ phraseapp:
     - file: ./<locale_name>/internal.json
       params:
         file_format: simple_json
-        tags: internal
+        tag: internal
         include_empty_translations: true
     - file: ./<locale_name>/general.json
       params:
         file_format: simple_json
-        tags: general
+        tag: general
         include_empty_translations: true
     - file: ./<locale_name>/test_strings.json
       params:
         file_format: simple_json
-        tags: test_strings
+        tag: test_strings
         include_empty_translations: true
