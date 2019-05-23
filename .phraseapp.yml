@@ -1,0 +1,18 @@
+phraseapp:
+  push:
+    sources:
+    - file: ./<locale_code>/<tag>.json
+      params:
+        file_format: simple_json
+  pull:
+    targets:
+    - file: ./<locale_name>/general.json
+      params:
+        file_format: simple_json
+        tag: general
+        include_empty_translations: true
+    - file: ./<locale_name>/test_strings.json
+      params:
+        file_format: simple_json
+        tag: test_strings
+        include_empty_translations: true
