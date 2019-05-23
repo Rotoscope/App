@@ -1,0 +1,21 @@
+{
+  "APP_UPDATE_BODY": "Savonix Mobile 应用程序推出了新版本。请在应用商店中将该应用程序更新为最新版本。",
+  "APP_UPDATE_HEADER": "可用的新版本",
+  "BUTTON_CLOSE": "关闭",
+  "BUTTON_RETRY": "重试",
+  "BUTTON_SAVE": "保存",
+  "BUTTON_UPDATE": "更新",
+  "LANGUAGE_SELECTION_HEADER": "选择语言",
+  "LANGUAGE_SELECTION_SUBHEADER": "从下方列表进行选择",
+  "LOADING_FONT_BUNDLE_ERROR": "加载{Font}的{Subset}时出错。请访问 support.savonix.net 以了解更多信息。",
+  "LOADING_SPINNER_CONNECTING": "连接中",
+  "LOADING_SPINNER_LOADING": "等待",
+  "MAINTENANCE_MESSAGE": "我们正在维护 Savonix Mobile，很抱歉引起了不便。",
+  "MAINTENANCE_MESSAGE_FORMAT": "我们正在维护 Savonix Mobile，很抱歉引起了不便。已安排的维护将持续 {NUMBER} 小时。",
+  "NO_INTERNET_BODY": "请检查您的互联网连接，然后再试一次。",
+  "NO_INTERNET_HEADER": "无网络连接",
+  "SERVER_ERROR_HEADER": "服务器错误",
+  "SERVER_TEMPORARILY_UNAVAILABLE_BODY": "我们的服务器暂时不可用。请稍后重试。",
+  "SERVER_UNREACHABLE_BODY": "无法连接到Savonix服务器。请检查网络连接并重试。",
+  "SERVER_UNREACHABLE_HEADER": "没有连接到服务器"
+}

@@ -1,0 +1,21 @@
+{
+  "APP_UPDATE_BODY": "Savonix Mobile App has a new version available. Please update to the latest version in your app store.",
+  "APP_UPDATE_HEADER": "New Version Available",
+  "BUTTON_CLOSE": "Close",
+  "BUTTON_RETRY": "Retry",
+  "BUTTON_SAVE": "Save",
+  "BUTTON_UPDATE": "Update",
+  "LANGUAGE_SELECTION_HEADER": "Choose language",
+  "LANGUAGE_SELECTION_SUBHEADER": "Select from the list below",
+  "LOADING_FONT_BUNDLE_ERROR": "An error has occurred while loading {Subset} of {Font}. Please visit support.savonix.net to learn more.",
+  "LOADING_SPINNER_CONNECTING": "Connecting",
+  "LOADING_SPINNER_LOADING": "Loading",
+  "MAINTENANCE_MESSAGE": "We are performing maintenance on Savonix Mobile. We apologize for the inconvenience.",
+  "MAINTENANCE_MESSAGE_FORMAT": "We are performing maintenance on Savonix Mobile. We apologize for the inconvenience. Maintenance is scheduled to last for {NUMBER} hours.",
+  "NO_INTERNET_BODY": "Please check your internet connection and try again.",
+  "NO_INTERNET_HEADER": "No Internet Connection",
+  "SERVER_ERROR_HEADER": "Server Error",
+  "SERVER_TEMPORARILY_UNAVAILABLE_BODY": "Our server is temporarily unavailable. Please try again later.",
+  "SERVER_UNREACHABLE_BODY": "Unable to connect to the Savonix server. Please check your connection and try again.",
+  "SERVER_UNREACHABLE_HEADER": "No Server Connection"
+}

@@ -1,0 +1,21 @@
+{
+  "APP_UPDATE_BODY": "Savonixアプリの新バージョンが利用可能になりました。お使いのAppストアから最新バージョンに更新してください。",
+  "APP_UPDATE_HEADER": "新バージョンが利用可能",
+  "BUTTON_CLOSE": "閉じる",
+  "BUTTON_RETRY": "リトライ",
+  "BUTTON_SAVE": "保存する",
+  "BUTTON_UPDATE": "更新",
+  "LANGUAGE_SELECTION_HEADER": "言語を選択",
+  "LANGUAGE_SELECTION_SUBHEADER": "下のリストから選択してください",
+  "LOADING_FONT_BUNDLE_ERROR": "{Font}の{Subset}を読み込み中にエラーが発生しました。詳しくはsupport.savonix.netをご確認ください。",
+  "LOADING_SPINNER_CONNECTING": "接続中",
+  "LOADING_SPINNER_LOADING": "読み込み中",
+  "MAINTENANCE_MESSAGE": "ただいまSavonix Mobileのメンテナンスを行っております。ご不便をおかけして申し訳ございません。",
+  "MAINTENANCE_MESSAGE_FORMAT": "ただいまSavonix Mobileのメンテナンスを行っております。ご不便をおかけして申し訳ございません。メンテナンスは{NUMBER}時間以内に終了する予定です。",
+  "NO_INTERNET_BODY": "インターネット接続を確認して再度お試しください。",
+  "NO_INTERNET_HEADER": "インターネット接続がありません",
+  "SERVER_ERROR_HEADER": "サーバーエラー",
+  "SERVER_TEMPORARILY_UNAVAILABLE_BODY": "サーバーが一時的に使用不能です。時間をおいてもう一度試してください。",
+  "SERVER_UNREACHABLE_BODY": "Savonixサーバーに接続できません。接続を確認して、もう一度お試しください。",
+  "SERVER_UNREACHABLE_HEADER": "サーバー接続なし"
+}
