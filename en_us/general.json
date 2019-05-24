@@ -566,7 +566,7 @@
   "RECOVER_STATE_PHONE_REQUIRED": "The phone number associated with your account is required",
   "REPUBLIC_OF_THE_CONGO": "Republic of the Congo",
   "Request has been made to server for a link to allow them to retrieve their password.": null,
-  "Request has been made to server for a link to allow them to retrieve their username.": null,
+  "Request has been made to server for a link to allow them to retrieve their username.": "TESTING THE PHRASEAPP PR",
   "RESEND_EMAIL_COLORED": "<color=#0482D0FF>Resend Email</color>",
   "RESEND_TEXT_COLORED": "<color=#0482D0FF>Resend Text</color>",
   "RESET_PASSWORD_PROMPT": "8+ characters including one uppercase, lowercase, number, and symbol.",
