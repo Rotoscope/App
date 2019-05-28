@@ -566,7 +566,7 @@
   "RECOVER_STATE_PHONE_REQUIRED": "アカウントに登録された電話番号が必要です",
   "REPUBLIC_OF_THE_CONGO": "コンゴ共和国",
   "Request has been made to server for a link to allow them to retrieve their password.": null,
-  "Request has been made to server for a link to allow them to retrieve their username.": null,
+  "Request has been made to server for a link to allow them to retrieve their username.": "TESTING PHRASEAPP PR",
   "RESEND_EMAIL_COLORED": "<color=#0482D0FF>メールを再送する</color>",
   "RESEND_TEXT_COLORED": "<color=#0482D0FF>SMSを再送する</color>",
   "RESET_PASSWORD_PROMPT": "大文字、小文字、数字、および記号1文字を含む8文字以上。",
